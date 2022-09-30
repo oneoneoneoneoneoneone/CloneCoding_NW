@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionType</key>
+		<string>banner</string>
+		<key>contentItem</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계1</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계2</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계3</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionType</key>
+		<string>basic</string>
+		<key>contentItem</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계1</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계2</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계3</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>소녀의 세계4</string>
+				<key>description</key>
+				<string>ㅎㅎ</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모랑지</string>
+				<key>updateDay</key>
+				<string>월</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<true/>
+				<key>isStop</key>
+				<true/>
+				<key>isIncrease</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionType</key>
+		<string>ai</string>
+		<key>contentItem</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선2</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선3</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionType</key>
+		<string>rank</string>
+		<key>contentItem</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선1</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선2</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>2022 단편선3</string>
+				<key>description</key>
+				<string>최고의 작품 추천합니다</string>
+				<key>imageName</key>
+				<string>abc</string>
+				<key>writer</key>
+				<string>모죠 외</string>
+				<key>updateDay</key>
+				<string>전체</string>
+				<key>score</key>
+				<real>8.220000000000001</real>
+				<key>isUpdate</key>
+				<false/>
+				<key>isStop</key>
+				<false/>
+				<key>isIncrease</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
